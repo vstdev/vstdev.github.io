@@ -1,3 +1,5 @@
-# vxodev.github.io
+# vstdev.github.io
 
-First draft
+This is the site for #VSTDEV
+
+It is a complete rip-off of vxodev.github.io 
